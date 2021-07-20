@@ -31,4 +31,7 @@
   .inblock{
     transform: translate(-45%,-50%);
   }
+  .inquote{
+    padding: 2rem 2rem 4rem;
+  }
 }
