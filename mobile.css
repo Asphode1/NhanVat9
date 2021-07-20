@@ -1,0 +1,33 @@
+@media only screen and (max-width: 1000px){
+  *,*::before,*::after{
+    font-size: 10px;
+  }
+  .hustlogo{
+    margin: 2rem 4rem;
+    height: 12rem;
+  }
+  .classinfo{
+    margin: 4rem 2rem;
+  }
+  .logo{
+    height: 10rem;
+  }
+  h1{
+    text-align: center;
+    font-size: 1.7em;
+    margin: 0 2rem;
+  }
+  .member{
+    width: 40rem;
+  }
+  .logoblock{
+    width: 8rem;
+    height: 8rem;
+  }
+  .block{
+    width: 30rem;
+  }
+  .inblock{
+    transform: translate(-45%,-50%);
+  }
+}
