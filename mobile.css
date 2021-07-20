@@ -34,4 +34,7 @@
   .inquote{
     padding: 2rem 2rem 4rem;
   }
+  .quote{
+    margin-bottom: 1rem;
+  }
 }
