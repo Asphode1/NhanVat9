@@ -61,10 +61,16 @@ var meminfo = [
     "link": "https://www.facebook.com/profile.php?id=100015392524378",
     "mail": "KHAI.LM192923@sis.hust.edu.vn",
     "dt": "0389100164"
+  },{
+    "name": "Ngô Thị Ngọc Huyền (Nhu Yen)",
+    "logo": "./images/Huyen.jpg",
+    "link": "https://www.facebook.com/nhuyene",
+    "mail": "huyen.ntn158168@sis.hust.edu.vn",
+    "dt": ""
   }
 ]
 const meminf = document.querySelector('.memberinfo')
-for(var i = 0 ; i < 9 ; i++){
+for(var i = 0 ; i < 10 ; i++){
   const mem = document.createElement('div')
   mem.classList.add('member')
   const logoblock = document.createElement('div')
