@@ -64,7 +64,7 @@ var meminfo = [
   },{
     "name": "Ngô Thị Ngọc Huyền (Nhu Yen)",
     "logo": "./images/Huyen.jpg",
-    "link": "https://www.facebook.com/nhuyene",
+    "link": "https://www.facebook.com/nhuyenlife",
     "mail": "huyen.ntn158168@sis.hust.edu.vn",
     "dt": ""
   }
